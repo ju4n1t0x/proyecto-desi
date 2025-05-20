@@ -8,7 +8,7 @@ public class Desi2025Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Desi2025Application.class, args);
-		SpringApplication.run(Desi2025Application.class, args);
+
 	}
 
 }
